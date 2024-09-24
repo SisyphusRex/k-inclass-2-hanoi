@@ -5,7 +5,7 @@ import sys
 
 # First-Party Imports
 from program import main
-1
+
 
 def run(*args):
     """Main entry point for program"""
