@@ -1,9 +1,7 @@
 # In-Class 2 - Recursion - Factorial and Towers of Hanoi
 
 ## Author
-Walter Podewil
-CIS 226
-September 19, 2024
+
 
 
 ## Description
