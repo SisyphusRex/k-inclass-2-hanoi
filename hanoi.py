@@ -1,8 +1,6 @@
 """class for solving tower of Hanoi"""
 
-# Walter Podewil
-# CIS 226
-# September 24, 2024
+
 
 
 class Hanoi:
