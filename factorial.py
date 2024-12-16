@@ -1,6 +1,4 @@
-# Walter Podewil
-# CIS 226
-# September 19, 2024
+
 import math
 
 """Factorial Module"""
